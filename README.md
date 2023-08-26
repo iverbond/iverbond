@@ -18,6 +18,11 @@ Je suis spécialisé dans la communication digitale et je propose mes services a
 
 Je suis un développeur web et mobile polyvalent, capable de travailler avec plusieurs langages et technologies, tels que PHP (Laravel, CodeIgniter), Java, Kotlin, JavaScript, TypeScript, Python, HTML/CSS. J'ai une bonne maîtrise des outils informatiques et des logiciels courants.
 
+## 🌐 Portfolio
+
+Découvrez mon travail sur mon portfolio : iverbond.vendornix.com
+
+
 ## 🌍 Localisation
 
 Je réside actuellement à Goma, mais je suis disponible pour des opportunités locales ou internationales.
