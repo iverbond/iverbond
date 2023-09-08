@@ -2,6 +2,8 @@
 
 Je suis un développeur passionné et le créateur de la plateforme **Vendornix** et **Vendornix Event**. J'ai une solide expertise en télécommunications, électronique, développement de logiciels et communication digitale.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aubinleyoung&label=Profile%20views&color=0e75b6&style=flat" alt="aubinleyoung" /> </p>
+
 ## 🎓 Formation
 
 Je suis diplômé en Génie et gestion des télécommunications de l’Université Hope Africa et j’ai aussi suivi une formation technique en électronique industrielle à l’Institut Technique Industriel De Goma (ITIG/Don Bosco).
