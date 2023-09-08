@@ -2,7 +2,7 @@
 
 Je suis un développeur passionné et le créateur de la plateforme **Vendornix** et **Vendornix Event**. J'ai une solide expertise en télécommunications, électronique, développement de logiciels et communication digitale.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aubinleyoung&label=Profile%20views&color=0e75b6&style=flat" alt="aubinleyoung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iverbond&label=Profile%20views&color=0e75b6&style=flat" alt="Iverbond" /> </p>
 
 ## 🎓 Formation
 
@@ -22,7 +22,7 @@ Je suis un développeur web et mobile polyvalent, capable de travailler avec plu
 
 ## 🌐 Portfolio
 
-Découvrez mon travail sur mon portfolio : iverbond.vendornix.com
+Découvrez mon travail sur mon portfolio : [iverbond.vendornix.com](https://iverbond.vendornix.com).
 
 
 ## 🌍 Localisation
