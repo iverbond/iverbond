@@ -1,8 +1,8 @@
 # 👋 Bonjour, je suis BAHATI Yves Pascal
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iverbond&label=Profile%20views&color=0e75b6&style=flat" alt="Iverbond" /> </p>
 
 Je suis un développeur passionné et le créateur de la plateforme **Vendornix** et **Vendornix Event**. J'ai une solide expertise en télécommunications, électronique, développement de logiciels et communication digitale.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iverbond&label=Profile%20views&color=0e75b6&style=flat" alt="Iverbond" /> </p>
 
 ## 🎓 Formation
 
